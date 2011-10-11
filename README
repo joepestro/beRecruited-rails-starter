@@ -1,7 +1,6 @@
 A simple rails project for beRecruited interviews.
 
-Given an external API that returns users and teams, generate team
-leaderboards of the top 5 users who follow each team.
+Given an external API (http://br-interview-api.heroku.com) that returns users and teams, generate team leaderboards of the top 5 users who follow each team.
 
 Bonus points: allow viewers of your leaderboard to switch between teams
 using AJAX.
